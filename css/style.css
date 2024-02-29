@@ -1,0 +1,64 @@
+body{
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3{
+    text-align: center;
+}
+
+
+.max-width{
+    width: 100%;
+}
+
+.border{
+    border-top: 2px solid rgb(150, 150, 224);
+    border-bottom: 2px solid rgb(141, 253, 137);
+    border-left:2px dashed rgb(94, 94, 94);
+    border-right: 2px dashed rgb(94, 94, 94 );
+}
+
+.curve{
+    border-radius: 8px;
+    padding: 5px;
+}
+
+.flex{
+    display: flex;
+}
+
+.center{
+    justify-content: center;
+    align-content: center;
+}
+
+.column{
+    flex-direction: column;
+}
+.width-25{
+    width: 25%;
+}
+
+.margin{
+    margin: 10px;
+}
+
+.padding{
+    padding: 5px;
+}
+
+ol{
+    margin-block: 0px;
+    padding-inline-start: 0px;
+}
+li{
+    list-style: none;
+    padding: 3px;
+    margin: 3px;
+}
+
+.text-center{
+    text-align: left;
+}
