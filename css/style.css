@@ -22,7 +22,6 @@ h3{
 
 .curve{
     border-radius: 8px;
-    padding: 5px;
 }
 
 .flex{
@@ -61,4 +60,8 @@ li{
 
 .text-center{
     text-align: left;
+}
+
+.space-between{
+    justify-content: space-between;
 }
